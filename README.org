@@ -1,0 +1,9 @@
+* cl-protobufs
+
+Common Lisp protocol buffer implementation.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/qitab/cl-protobufs.git |
+| commit  | bbbcde2                                       |
+| systems | cl-protobufs                                  |
+|---------+-----------------------------------------------|

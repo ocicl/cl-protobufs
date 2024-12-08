@@ -2,7 +2,6 @@
 
 set -x
 
-sudo apt install -y libabsl-dev
 find .
 cd */protoc
 cmake . -DCMAKE_CXX_STANDARD=17

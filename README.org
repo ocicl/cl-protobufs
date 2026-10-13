@@ -4,7 +4,7 @@ Common Lisp protocol buffer implementation.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/qitab/cl-protobufs.git |
-| commit  | 5f4759b                                       |
+| commit  | 3a934c8                                       |
 | systems | cl-protobufs                                  |
 |---------+-----------------------------------------------|
  
